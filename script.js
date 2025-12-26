@@ -36,7 +36,7 @@ const card = document.querySelector(".front face back face");
 
 script = `
     .....
-Happy Birthday,miss saira 🫠
+Happy Birthday, Arfiya 💝
 
 On this special day, I pray that Allah blesses you with endless
 
@@ -52,9 +52,9 @@ warmth inspire everyone around you.
 
 May Allah continue to shower His mercy and blessings upon you,
 
-Happy Birthday, and may this year be your best one yet! 🌟
+Happy Birthday, and may this upcoming year be the best one yet! 🌟
  ..........
-       Your new yrr  Afgan🫶🏻
+       Your Ayesha 🫶🏻 😇
 `;
 
 
